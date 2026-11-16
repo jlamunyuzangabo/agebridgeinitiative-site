@@ -1,0 +1,11 @@
+{
+  "routes": [
+    { "path": "/", "title": "Age Bridge Initiative — Home" },
+    { "path": "/pillars/mentorship", "title": "Mentorship Programme — ABI" },
+    { "path": "/pillars/career-development", "title": "Professional Orientation & Career Development — ABI" },
+    { "path": "/pillars/institutional-development", "title": "Institutional & Organizational Development — ABI" },
+    { "path": "/stories", "title": "News & Stories — ABI" },
+    { "path": "/contact", "title": "Connect with ABI" },
+    { "path": "/404", "title": "Page not found — ABI" }
+  ]
+}
